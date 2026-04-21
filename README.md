@@ -28,7 +28,7 @@ Saya adalah mahasiswa Ilmu Komputer yang memiliki minat besar dalam pengembangan
 
 ## 📫 Hubungi Saya
 - 📧 Email: dlyhasugian@gmail.com
-- 🌐 Portfolio: https://andlyhsg03.github.io/WebPortoReactFirstTimee/
+- 🌐 Portfolio: https://portfolioweb-andlyhasugian.vercel.app/
 - 💼 LinkedIn: www.linkedin.com/in/andly-sofian-hasugian-3ab749294
 
 ---
