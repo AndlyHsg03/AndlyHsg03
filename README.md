@@ -2,6 +2,7 @@
 
 🎓 Mahasiswa Ilmu Komputer - Universitas Negeri Medan  
 💻 Passion di bidang Web Development, Software Engineering, Data Scientist
+
 🚀 Sedang mengembangkan berbagai project berbasis Laravel & React  
 
 ---
