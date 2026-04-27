@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andly Sofian Hasugian
 
 🎓 Mahasiswa Ilmu Komputer - Universitas Negeri Medan  
-💻 Passion di bidang Web Development & Software Engineering  
+💻 Passion di bidang Web Development, Software Engineering, Data Scientist
 🚀 Sedang mengembangkan berbagai project berbasis Laravel & React  
 
 ---
@@ -12,10 +12,9 @@ Saya adalah mahasiswa Ilmu Komputer yang memiliki minat besar dalam pengembangan
 ---
 
 ## ⚡ Tech Stack
-- 💻 Backend: Laravel (PHP)
-- 🌐 Frontend: React / React Native
-- 🗄️ Database: MySQL
-- 🔥 Realtime: Laravel Reverb
+- 💻 Backend: NodeJS, Laravel (PHP)
+- 🌐 Frontend: React / React Native, NextJS
+- 🗄️ Database: MySQL, Supabase
 - ⚙️ Tools: Git, VS Code
 
 
