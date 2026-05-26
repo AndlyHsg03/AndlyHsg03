@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Tentang Saya
-Saya adalah mahasiswa Ilmu Komputer yang memiliki minat besar dalam pengembangan aplikasi web dan mobile. Saya suka membangun sistem yang tidak hanya berfungsi, tetapi juga memiliki pengalaman pengguna yang baik.
+Saya adalah mahasiswa Ilmu Komputer yang memiliki minat besar dalam pengembangan aplikasi web, mobile juga dalam data science dan AI. Saya suka membangun sistem yang tidak hanya berfungsi, tetapi juga memiliki pengalaman pengguna yang baik.
 
 ---
 
