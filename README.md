@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andly Sofian Hasugian
 
 🎓 Mahasiswa Ilmu Komputer - Universitas Negeri Medan  
-💻 Passion di bidang Web Development, Software Engineering, Data Scientist
+💻 Passion di bidang AI Engineer, Fullstack Developer, Data Scientist
 
 🚀 Sedang mengembangkan berbagai project berbasis Laravel & React  
 
